@@ -1,0 +1,106 @@
+# Ignore everything
+/*
+/*/
+
+# Inverse ignore some stuff
+!/Models/
+!/UI Source/
+!/Assets/
+!/Textures/
+!/NodeServerSource/
+!/ProjectSettings/
+!.gitignore
+!/AndroidApp
+!LICENSE.txt
+!/Batch
+# OS Stuff
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+!README.md
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+!.gitattributes
+
+# Unity Packages Ignoreds
+/Assets/GUI Animator/
+/Assets/Top-Down-Cartoon-Dungeon-Tileset/
+/Assets/PlayMaker/
+/Assets/Fantasy Skybox/
+/Assets/Fantasy Skybox FREE/
+/Assets/JMO Assets/
+/Assets/Stylized Flora Pack/
+/Assets/Jungle Nature Pack/
+/Assets/TSM2/
+/Assets/GE Common Assets/
+/Assets/SurvivalWeaponsPack/
+/Assets/Standard Assets/Image Effects (Pro Only)/
+/Assets/Standard Assets/Effects/
+/Assets/InventoryMaster/
+/Assets/Editor/ImageEffects/
+*PlayMaker*
+/Assets/MeshBaker/
+/Assets/Battlehub/
+/Assets/Cinema Suite/
+/Assets/Editor Default Resources/
+/Assets/GameAnalytics/
+/Assets/Gizmos/GameAnalytics/
+/Assets/Draw Call Minimizer/
+/Assets/Palms_and_chests/
+/Assets/Sketchfab Exporter/
+/Assets/Toon Snakes Pack/
+/Assets/GooglePlayGames/
+/Assets/PlayServicesResolver/
+/Assets/Photon/
+/Assets/Vendor/SocketIO/
+/Assets/TopDownMazePackage/
+/Assets/Cartoon Temple Building Kit/
+/Assets/ProCore/
+/Vendor
+/Assets/_INTERNAL_
+/Assets/GooglePlayGames/
+/Assets/Unity-Logs-Viewer/
+/Assets/Effects/
+/Assets/Spine/
+/Assets/Spine Examples/
+!/Build/
+
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+# [Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+*.tmp
